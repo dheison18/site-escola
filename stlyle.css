@@ -9,7 +9,7 @@ body{
 }
 .cabeçalho {
     background-color: rgb(209, 10, 10);
-    color:white;
+    color:rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -30,7 +30,7 @@ body{
 }
 .escola{
     background-image: linear-gradient( rgb(255, 0, 0), rgb(0, 38, 255));
-    color:white;
+    color:rgb(0, 0, 0);
     display: flex;
     justify-content: center;
     align-items: center;
